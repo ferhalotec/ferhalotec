@@ -6,6 +6,3 @@
 | 4:00pm-5:00pm | Lenguajes int.  | Lenguajes int.  | Lenguajes int.  | Lenguajes int.  |                 |        |         | 
 | 5:00pm-6:00pm | Lenguajes auto. | Lenguajes auto. | Lenguajes auto. | Lenguajes auto. | Lenguajes auto. |        |         |
 | 6:00pm-7:00pm | Admin B.D.      | Admin B.D.      | Admin B.D.      | Admin B.D.      | Admin B.D.      |        |         |  
-|               |                 |                 |                 |                 |                 |        |         | 
-|               |                 |                 |                 |                 |                 |        |         |
-|               |                 |                 |                 |                 |                 |        |         |  
